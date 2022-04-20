@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "Name": "Santa Diabla",
+    "Brand": "Yamaha",
+    "Year": 2003
+  },
+  {
+    "Id": 2,
+    "Name": "Moon",
+    "Brand": "BMW",
+    "Year": 2018
+  },
+  {
+    "Id": 3,
+    "Name": "Piedra",
+    "Brand": "Harley Davidson",
+    "Year": 2013
+  }
+]
